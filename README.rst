@@ -1,5 +1,5 @@
 ================================
-  MDAnalysis Repository README
+  MDAnalysis Repository README open for all contribuotors
 ================================
 
 |numfocus| 
