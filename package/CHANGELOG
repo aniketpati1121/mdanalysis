@@ -40,6 +40,9 @@ Fixes
    directly passing them. (Issue #3520, PR #5006)
 
 Enhancements
+ * Support has been added for reading positions and velocities
+   from GROMACS TPR files, between GROMACS version 4.x and 2025
+   (Issue #464, PR #4873)
  * Added `TemplateInferrer` and `RDKitInferrer` dataclasses to the
    `RDKitInferring` module to be used by the RDKit converter. (PR #4305)
  * Improve speed of GROMOS11 (TRC) reader (Issue #5079, PR #5080)
